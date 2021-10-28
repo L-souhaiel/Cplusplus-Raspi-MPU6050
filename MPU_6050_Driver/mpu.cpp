@@ -1,6 +1,7 @@
 #include "mpu.h"
 
 
+//MPU6050 Accelerometer Gyroscope Driver on Raspberry Pi written in C++.
 
 Mpu6050::Mpu6050():m_acc_x_out_H(0x3B) , m_i2c(0x68 ,1) , m_acc_z(0), m_gyro_x(0), m_gyro_y(0) , m_gyro_z(0) , m_acc_y(0) , m_acc_x(0) , m_rotationAngle_x(0) , m_rotationAngle_y(0)
 {
