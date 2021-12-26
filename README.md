@@ -1,1 +1,1 @@
-# Cplusplus-Raspi-MPU6050
+# MPU6050
