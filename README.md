@@ -22,7 +22,11 @@ by Accelerometer  ==> Rotation Angle by the Z achse : .... deg.
 ```
 # Dependencies
 
-g++ , ARM Compiler packages. 
+
+``` g++ 
+``` ,
+``` ARM
+``` Compiler packages. 
 
 
 
