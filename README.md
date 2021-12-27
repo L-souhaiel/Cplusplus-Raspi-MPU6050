@@ -21,12 +21,34 @@ by Accelerometer  ==> Rotation Angle by the Z achse : .... deg.
 
 ```
 # Dependencies
+install G++ compiler by instaling : libc6-armel-cross libc6-dev-armel-cross binutils-arm-linux-gnueabi libncurses5-dev build-essential bison flex libssl-dev. 
+
+# Installation
+To install this project follow those seteps: 
+
+```
+git clone https://github.com/TitiLouati/Cplusplus-Raspi-MPU6050.git
+
+```
+Then:
+
+from Test folder run : 
+
+```
+g++ -o test test.cpp ../mpu.cpp ../mpu.h && ./test
+
+```
+
+or run: 
+
+```
+python3 waf-2.0.20.py
+
+```
 
 
-``` g++ 
-``` ,
-``` ARM
-``` Compiler packages. 
+
+
 
 
 
