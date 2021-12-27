@@ -4,7 +4,7 @@ A C++ module for accessing the MPU-6050 digital accelerometer and gyroscope on a
 ![Layout](https://github.com/TitiLouati/Cplusplus-Raspi-MPU6050/blob/main/MPU_6050_Driver/mpu6050.png)
 
 # Example
-Assuming that the address of your MPU-6050 is 0x68, you can read read accelerometer data from Test.cpp like this:
+Assuming that the address of your MPU-6050 is 0x68, you can read accelerometer data from Test.cpp like this:
 
 ```
 acceleration in x_achse : ...g.
