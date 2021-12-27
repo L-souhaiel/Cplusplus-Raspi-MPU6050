@@ -20,6 +20,9 @@ by Accelerometer  ==> Rotation Angle by the Y achse : .... deg. <br/>
 by Accelerometer  ==> Rotation Angle by the Z achse : .... deg. <br/>
 
 ```
+# Dependencies
+
+g++ , ARM Compiler packages. 
 
 
 
