@@ -26,7 +26,7 @@ by Accelerometer  ==> Rotation Angle by the Z achse : .... deg.
 install G++ compiler by instaling : libc6-armel-cross libc6-dev-armel-cross binutils-arm-linux-gnueabi libncurses5-dev build-essential bison flex libssl-dev. 
 
 # Installation
-To install this project follow those seteps: 
+To install this project follow those steps: 
 
 ```
 git clone https://github.com/TitiLouati/Cplusplus-Raspi-MPU6050.git
